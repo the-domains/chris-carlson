@@ -1,0 +1,83 @@
+typography_spectrum: 0.9500536
+color:
+  brandColors:
+    - '#3e3a3b'
+    - '#b9bfbf'
+    - '#606060'
+    - '#eaf2f1'
+    - '#a67d63'
+  brandStrength: 0
+  lightness: 0.875
+  saturation: 0.125
+  rhythmicContrast: 0.25
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.37077
+analytics:
+  google: UA-74480419-3
+  facebook: null
+  twitter: null
+author:
+  name: Christopher Carlson
+  email: Chris@cta.cloud
+  url: 'http://chriscarlson.me'
+logo: null
+name: Chris Carlson - Thinking Out Loud
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Internet Neighboring
+    id: 225f46ff-6e7d-44c9-90cf-3b93c650c9fa
+    type: content
+  - name: Making HP-LED Light Systems
+    id: 2ee317e6-3ddc-4d1c-88e0-0e0c2bea4680
+    type: content
+  - name: The Grid - Design with Ease
+    id: 6083f50f-091e-4452-bee8-66baa8f91039
+    type: content
+  - name: Work & Play
+    id: 0c4bdb38-8844-4967-83a4-c91c55a5c602
+    type: content
+  - name: My Wedding
+    id: 65d82db9-f888-45f6-8a8f-2c15896d28ee
+    type: content
+  - name: Military Service
+    id: 04703952-78bc-4b49-a60b-24be2afe79be
+    type: content
+  - name: Childhood
+    id: afb9c682-1508-4f01-a41a-39213bd74e98
+    type: content
+  - name: Terrific Kids
+    id: 937efe30-a0ee-4bbc-8789-69066a19a22c
+    type: content
+  - name: Press Credentials
+    id: a0acd150-c6bd-447e-ae4a-d800547bc8c0
+    type: content
+  - name: 'Systemback: A Sweet Linux System Backup Utility'
+    id: 06bbbb61-49a1-4800-8275-806696ec1132
+    type: content
+  - name: 'Cloud Storage that is Distributed, Encrypted, Cheap'
+    id: 4efa58f4-9e90-4c74-b54a-f62d4f27be38
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/53989fba-e97c-4a1f-8289-cb8d269fbaf4.png
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Chris Carlson
+description: Thinking Out Loud
+purpose: []
