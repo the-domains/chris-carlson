@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-11T21:34:48.769Z'
+datePublished: '2016-10-11T21:39:20.238Z'
+sourcePath: _posts/2016-10-11-education-and-experience.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-11T21:34:48.442Z'
+dateModified: '2016-10-11T21:39:19.911Z'
 title: Education & Experience
 publisher: {}
 description: Summary of my formal education and military education.
-sourcePath: _posts/2016-10-11-education-and-experience.md
 starred: false
 url: education-and-experience/index.html
 _type: Article
@@ -20,7 +20,9 @@ _type: Article
 Summary of my formal education and military education.
 ![WMU Campus.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff958191-3b6b-4fe7-9b1d-f6be1cbed4c7.jpg)
 
-**Western Michigan University: 75 Credit Hours - 3.57 Cumulative GPA**
+## **Western Michigan University: 75 Credit Hours - 3.57 Cumulative GPA**
+
+### Courses Taken:
 
 * _**Computer Science**_
   * _**Database Management Systems**_
@@ -52,7 +54,9 @@ Summary of my formal education and military education.
   * _**General Chemistry I - Honors College**_
 ![Hillsdale Colege Gate](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edfa05f6-4fd8-4097-8f0d-2457987350e7.jpg)
 
-**Hillsdale College: 26 Credit Hours - 3.52 Cumulative GPA**
+## **Hillsdale College: 26 Credit Hours - 3.52 Cumulative GPA**
+
+### Courses Taken:
 
 * _**Mathematics**_
   * _**Calculus I**_
@@ -67,7 +71,9 @@ Summary of my formal education and military education.
   * _**American Heritage**_
 ![Fort Bragg Entrance Gate](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f48ca48-3832-4f34-ad88-89a56836a86f.jpg)
 
-**U.S. Army Education**
+## **U.S. Army Education**
+
+### Courses Taken:
 
 * _**Military Deception Course - Fort Belvoir 2011**_
 * _**Psychological Operations Training Course - Fort Bragg 2009**_
@@ -78,7 +84,9 @@ Summary of my formal education and military education.
 * _**Infantry One Station Unit Training - Fort Benning 2007**_
 ![Phillips Hall](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc911e0e-946a-421d-b6f8-0724e8eebc5e.jpg)
 
-**Michigan State University: 12 Credit Hours**
+## **Michigan State University: 12 Credit Hours**
+
+### Courses Taken:
 
 * _**Mathematics**_
   * _**Excursions in Mathematics**_
