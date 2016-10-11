@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-10-11T21:32:46.800Z'
+datePublished: '2016-10-11T21:34:48.769Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-11T21:32:34.496Z'
+dateModified: '2016-10-11T21:34:48.442Z'
 title: Education & Experience
 publisher: {}
 description: Summary of my formal education and military education.
-starred: false
 sourcePath: _posts/2016-10-11-education-and-experience.md
+starred: false
 url: education-and-experience/index.html
 _type: Article
 
