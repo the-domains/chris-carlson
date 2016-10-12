@@ -1,23 +1,23 @@
 ---
-datePublished: '2016-10-11T21:39:20.238Z'
+datePublished: '2016-10-12T01:39:02.893Z'
 sourcePath: _posts/2016-10-11-education-and-experience.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-11T21:39:19.911Z'
-title: Education & Experience
+dateModified: '2016-10-12T01:39:02.484Z'
+title: Education & EEducation & Experience
 publisher: {}
-description: Summary of my formal education and military education.
+description: Summary of my formal and military education.
 starred: false
 url: education-and-experience/index.html
 _type: Article
 
 ---
-# Education & Experience
+# Education & EEducation & Experience
 ![Digital Artwork of Hillsdale College](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ba21a0b-039b-4aac-a8e3-209f6fdafc57.jpg)
 
-Summary of my formal education and military education.
+Summary of my formal and military education.
 ![WMU Campus.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff958191-3b6b-4fe7-9b1d-f6be1cbed4c7.jpg)
 
 ## **Western Michigan University: 75 Credit Hours - 3.57 Cumulative GPA**
