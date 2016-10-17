@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-12T01:39:02.893Z'
+datePublished: '2016-10-17T06:20:09.267Z'
 sourcePath: _posts/2016-10-11-education-and-experience.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T01:39:02.484Z'
+dateModified: '2016-10-17T06:20:08.700Z'
 title: Education & EEducation & Experience
 publisher: {}
 description: Summary of my formal and military education.
@@ -95,3 +95,5 @@ Summary of my formal and military education.
 * _**Liberal Arts**_
   * _**Ancient Greek Philosophy**_
   * _**Introduction to Drawing**_
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxFkcFPwyAUxu_7K3oDDKPWwzR2Ndmi8TYvemp6QPrGWFqoQG2Wdf-70E69AO97P768D9ZOWNX5p0WS4H2vhVdGY0UdNVRSSzltyVmV6NUY2cBG8-bklXBvn0cQHlWFzVVpqyIu4_h3n5yjXRTZVzFv41hWhHW9O2BuZd-C9o5c6NRsiuxGw5A8cw-Y5LxwTFgIxUsDEcSG0GDYBl2Cv4pue3rncsdbCO3ytso54-6kRZGFk7OikHnLOm4DujM1MKUdWL-FvbGAY6zgeCF4ULo2A62NmGaiaH4PRNHB-849pukwDExO8Zf8Nz8Tpk3_q6MLvOSI5IvgKjlG8_yIJuhjs1zdZw9ZdrdaZlHgvTeRnEEHuo5qxyV8Kxgmj3V6_ZUfFKSJPA" height="244" style=""></iframe>
