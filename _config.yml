@@ -31,7 +31,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Why I Hope to Depart
+  - name: Why I Want to Depart
     id: 3d453bff-d410-4d13-9a72-8bb8dba2d5c3
     type: content
   - name: Internet Neighboring
