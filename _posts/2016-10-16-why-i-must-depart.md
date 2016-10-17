@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-17T06:45:23.035Z'
+datePublished: '2016-10-17T06:56:48.938Z'
 sourcePath: _posts/2016-10-16-why-i-must-depart.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - name: Woodley Wonder Works
     url: 'https://www.flickr.com/photos/wwworks/'
 via: {}
-dateModified: '2016-10-17T06:45:05.565Z'
+dateModified: '2016-10-17T06:56:48.484Z'
 title: Why I Want to Depart
 publisher: {}
 description: >-
@@ -44,7 +44,7 @@ I was naive, I suppose, in also believing that our nation held dear the declarat
 
 "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness."
 
-I was idealistic enough, or maybe just so enamored of the Declaration of Independence, that I believed it served as a kind of national spiritual-guide for lawmaking; useful in times when the constitution was a little fuzzy about what to do. This was, I imagined, why we celebrated the 4th of July at all: because we had committed ourselves as a nation to strive for high ideals. That our government's primary and core function was to, "secure these rights", of life liberty, and the pursuit of happiness for its citizens.
+I was idealistic enough, or maybe just so enamored of the Declaration of Independence, that I believed it served as a kind of national spiritual-guide for lawmaking; useful in times when the constitution was a little fuzzy about what to do. This was, I imagined, why we celebrated the 4th of July at all: because we had committed ourselves as a nation to strive for high ideals. That our government's primary and core function was to, "secure these rights", of life, liberty, and the pursuit of happiness for its citizens.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8620c98b-7a24-4bcb-82ea-17addea7f554.jpg)
 
 ### Disabused
