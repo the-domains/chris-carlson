@@ -52,6 +52,9 @@ navigation:
   - name: Military Service
     id: 04703952-78bc-4b49-a60b-24be2afe79be
     type: content
+  - name: Why I Want to Depart
+    id: 3d453bff-d410-4d13-9a72-8bb8dba2d5c3
+    type: content
   - name: Childhood
     id: afb9c682-1508-4f01-a41a-39213bd74e98
     type: content
@@ -66,9 +69,6 @@ navigation:
     type: content
   - name: 'Cloud Storage that is Distributed, Encrypted, Cheap'
     id: 4efa58f4-9e90-4c74-b54a-f62d4f27be38
-    type: content
-  - name: Why I Want to Depart
-    id: 3d453bff-d410-4d13-9a72-8bb8dba2d5c3
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/53989fba-e97c-4a1f-8289-cb8d269fbaf4.png
