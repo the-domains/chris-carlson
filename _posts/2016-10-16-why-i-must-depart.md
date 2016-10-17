@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-17T04:43:46.460Z'
+datePublished: '2016-10-17T04:45:41.156Z'
 sourcePath: _posts/2016-10-16-why-i-must-depart.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - name: Woodley Wonder Works
     url: 'https://www.flickr.com/photos/wwworks/'
 via: {}
-dateModified: '2016-10-17T04:40:55.666Z'
+dateModified: '2016-10-17T04:45:40.657Z'
 title: Why I Want to Depart
 publisher: {}
 description: >-
@@ -20,7 +20,7 @@ description: >-
   before I returned to civilian life. I went to Infantry school, Airborne
   school, and Psyop school. I was on, I don’t even know, more than a hundred
   missions certainly. I saw direct enemy fire on some occasions. I lost friends
-  and comrades in arms on missions. I think I feared for my own life most days. 
+  and comrades in arms on missions. I think I feared for my own life most days.
 starred: false
 url: why-i-want-to-depart/index.html
 _context: 'http://schema.org'
@@ -32,9 +32,9 @@ _type: Article
 ## Thoughts, fears, and why I decided it's time to leave.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b87ab8f8-4e78-4ad6-9d1a-7e5fa5f1707e.jpg)
 
-I love my country. I hope all my fears are imagined, my concerns are exaggerated, and my grievances are fast and easily remedied. I love my home state of Michigan. I'm a mid-westerner to my core. I love fishing, hunting, hiking, and boating. I wrestled for one year in high-school; I lost every match but still enjoyed the season. I served for five years with the United States Army --- seeing three tours of duty: two in Afghanistan and one in Iraq before I returned to civilian life. I went to Infantry school, Airborne school, and Psyop school. I was on, I don't even know, more than a hundred missions certainly. I saw direct enemy fire on some occasions. I lost friends and comrades in arms on missions. I think I feared for my own life most days. 
+I love my country. I hope all my fears are imagined, my concerns are exaggerated, and my grievances are fast and easily remedied. I love my home state of Michigan. I'm a mid-westerner to my core. I love fishing, hunting, hiking, and boating. I wrestled for one year in high-school; I lost every match but still enjoyed the season. I served for five years with the United States Army --- seeing three tours of duty: two in Afghanistan and one in Iraq before I returned to civilian life. I went to Infantry school, Airborne school, and Psyop school. I was on, I don't even know, more than a hundred missions certainly. I saw direct enemy fire on some occasions. I lost friends and comrades in arms on missions. I think I feared for my own life most days.
 
-I always had reason enough to stay here. There was enough to love about this place that, no matter how great other places might sound, I never really wanted to leave. It is with a disconcerting now to , and is still realization, and .
+I always had reason enough to stay here. There was enough to love about this place that, no matter how great other places might sound, I never really wanted to leave. It is disconcerting now to settle in to this new perspective. 
 
 ### Idealism
 
