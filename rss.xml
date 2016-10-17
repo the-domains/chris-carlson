@@ -4,15 +4,22 @@
         <description><![CDATA[Chris Carlson]]></description>
         <link>http://chriscarlson.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 17 Oct 2016 06:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2016 06:35:57 GMT</lastBuildDate>
         <atom:link href="http://chriscarlson.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Oct 2016 06:33:51 GMT</pubDate>
+        <pubDate>Mon, 17 Oct 2016 06:35:53 GMT</pubDate>
         <item>
             <title><![CDATA[Internet Neighboring]]></title>
             <description><![CDATA[<article><h1>Internet Neighboring</h1><p>Fifteen years ago people were wary about online dating. They voiced their concerns frequently and publicly, warning about the dangers of meeting, in real life, people who one had found on the internet…</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/076a5f2f-b88c-47ac-b7d3-9f3650906437.jpg"></article>]]></description>
             <link>http://chriscarlson.me/internet-neighboring/index.html</link>
             <guid isPermaLink="false">225f46ff-6e7d-44c9-90cf-3b93c650c9fa</guid>
             <pubDate>Mon, 17 Oct 2016 06:33:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cloud Storage that is Distributed, Encrypted, Cheap]]></title>
+            <description><![CDATA[<article><h1>Cloud Storage that is Distributed, Encrypted, Cheap</h1><h2>What else is there?</h2><p>Distributed, encrypted, and blazing fast object storage, where only you have access to your data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c3791e8efb51fba2ece5aa9d1d1804e5fe7f37c.jpg"></article>]]></description>
+            <link>http://chriscarlson.me/cloud-storage-that-is-distributed-encrypted-cheap/index.html</link>
+            <guid isPermaLink="false">4efa58f4-9e90-4c74-b54a-f62d4f27be38</guid>
+            <pubDate>Mon, 17 Oct 2016 06:35:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid | AI Websites That Design Themselves]]></title>
@@ -41,13 +48,6 @@
             <link>http://chriscarlson.me/my-press-credentials/index.html</link>
             <guid isPermaLink="false">a0acd150-c6bd-447e-ae4a-d800547bc8c0</guid>
             <pubDate>Mon, 17 Oct 2016 06:31:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cloud Storage that is Distributed, Encrypted, Cheap]]></title>
-            <description><![CDATA[<article><h1>Cloud Storage that is Distributed, Encrypted, Cheap</h1><h2>What else is there?</h2><p>Distributed, encrypted, and blazing fast object storage, where only you have access to your data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c3791e8efb51fba2ece5aa9d1d1804e5fe7f37c.jpg"></article>]]></description>
-            <link>http://chriscarlson.me/cloud-storage-that-is-distributed-encrypted-cheap/index.html</link>
-            <guid isPermaLink="false">4efa58f4-9e90-4c74-b54a-f62d4f27be38</guid>
-            <pubDate>Mon, 17 Oct 2016 06:27:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Education & EEducation & Experience]]></title>
