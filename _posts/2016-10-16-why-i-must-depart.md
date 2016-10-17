@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-17T04:45:41.156Z'
+datePublished: '2016-10-17T05:27:32.330Z'
 sourcePath: _posts/2016-10-16-why-i-must-depart.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - name: Woodley Wonder Works
     url: 'https://www.flickr.com/photos/wwworks/'
 via: {}
-dateModified: '2016-10-17T04:45:40.657Z'
+dateModified: '2016-10-17T05:27:31.520Z'
 title: Why I Want to Depart
 publisher: {}
 description: >-
@@ -34,7 +34,7 @@ _type: Article
 
 I love my country. I hope all my fears are imagined, my concerns are exaggerated, and my grievances are fast and easily remedied. I love my home state of Michigan. I'm a mid-westerner to my core. I love fishing, hunting, hiking, and boating. I wrestled for one year in high-school; I lost every match but still enjoyed the season. I served for five years with the United States Army --- seeing three tours of duty: two in Afghanistan and one in Iraq before I returned to civilian life. I went to Infantry school, Airborne school, and Psyop school. I was on, I don't even know, more than a hundred missions certainly. I saw direct enemy fire on some occasions. I lost friends and comrades in arms on missions. I think I feared for my own life most days.
 
-I always had reason enough to stay here. There was enough to love about this place that, no matter how great other places might sound, I never really wanted to leave. It is disconcerting now to settle in to this new perspective. 
+I always had reason enough to stay here. There was enough to love about this place that, no matter how great other places might sound, I never really wanted to leave. It is disconcerting now to settle in to this new perspective.
 
 ### Idealism
 
@@ -57,11 +57,11 @@ For example, why the sentencing discrepancies between _crack-cocaine and powder-
 
 Then I learned that, throughout the United States, large corporations and businesses get cheap/near-free labor from prisoners. Not surprisingly, a lot of money can be made on prisoners. Realising that large corporations are getting near free labor made something click. I read further into the situation and became acquainted with what is frequently called, "The Prison-Industrial complex".
 
-It turns out that the cheap labor corporations get is really just a small piece of the pie, because all around there is just a killing to be made on keeping folks in cages. You can make money building the facilities. You can make money running them. You can make money working at the facilities. You can make money providing food services and laundry services to the facilities. And, maybe the best part of all is, (if you own the facility anyway), you can decide who gets the food contracts, who gets the cheap labor contracts, who gets the laundry contracts, and for every one of these lucrative contracts you can almost certainly finagle some spectacular off the books gifts from the companies competing to get the job contract, (in short, there are lucrative 'kickbacks').
+It turns out that the cheap labor corporations get is really just a small piece of the pie, because all around there is just a killing to be made on keeping folks in cages. You can make money building the facilities. You can make money running them. You can make money working at the facilities. You can make money providing food services and laundry services to the facilities. And, maybe the best part of all is, (if you own the facility anyway), you can decide who gets the food contracts, who gets the cheap labor contracts, who gets the laundry contracts, and for every one of these lucrative contracts you can almost certainly finagle some spectacular off the books gifts from companies competing to get a job contract, (in short, there are lucrative 'kickbacks').
 
-So how many prisoners do we have? The ugly truth is, The United States has more prisoners than any other nation in the world by far. Recent estimates put the US Prison Population around 2.2 million. It's laughable to compare our imprisonment rate to any other western nations. The only country that even approaches our numbers is, you guessed it, The Peoples Republic of China which has nearly four times the population of ours, yet they have merely 1.6 million prisoners. Yeah. Seems pretty fishy doesn't it?
+So how many prisoners do we have? The ugly truth is, The United States has more prisoners than any other nation in the world by far. Recent estimates put the US Prison Population at around 2.2 million. It's laughable to compare our imprisonment rate to other western nations. The only country that even approaches our numbers is, you guessed it, The Peoples Republic of China which has nearly four times the population of ours, yet they have merely 1.6 million prisoners. Yeah. Seems pretty fishy doesn't it?
 
-Well it isn't fishy. It makes perfect logical sense. There's money to be made putting people in jail, all that was needed is a way to get them there. Queue "The Drug War", that's how we got them there.
+Well it isn't fishy. It makes sense. There's money to be made putting people in jail. All a jailor ever needs is a _publicly_ acceptable reason to put folks away, from there on in it's all greased lighnight. What really is the "The Drug War"? I'm almost afraid to know. 
 
 How do you enslave millions without anyone noticing? You label them "Addicts"_, _frame them as a "Criminal Menace", a "Danger to themselves and to society". Playing it smart, you pick a drug that mostly poor people use, or one that is favored by minorities. (This is because poor people can't mount much of a legal defence, and minorities are more easily marginalised and demonised---their complaints will fall on deaf ears.)
 
