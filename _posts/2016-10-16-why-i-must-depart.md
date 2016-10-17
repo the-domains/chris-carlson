@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-17T03:37:38.120Z'
+datePublished: '2016-10-17T03:42:11.996Z'
 sourcePath: _posts/2016-10-16-why-i-must-depart.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - name: Woodley Wonder Works
     url: 'https://www.flickr.com/photos/wwworks/'
 via: {}
-dateModified: '2016-10-17T03:37:36.987Z'
+dateModified: '2016-10-17T03:42:10.913Z'
 title: Why I Must Depart
 publisher: {}
 description: >-
