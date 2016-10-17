@@ -37,6 +37,9 @@ navigation:
   - name: Making HP-LED Light Systems
     id: 2ee317e6-3ddc-4d1c-88e0-0e0c2bea4680
     type: content
+  - name: Why I Want to Depart
+    id: 3d453bff-d410-4d13-9a72-8bb8dba2d5c3
+    type: content
   - name: Education & Experience
     id: 776c835f-5547-4b06-9abf-11f4581339f9
     type: content
@@ -51,9 +54,6 @@ navigation:
     type: content
   - name: Military Service
     id: 04703952-78bc-4b49-a60b-24be2afe79be
-    type: content
-  - name: Why I Want to Depart
-    id: 3d453bff-d410-4d13-9a72-8bb8dba2d5c3
     type: content
   - name: Childhood
     id: afb9c682-1508-4f01-a41a-39213bd74e98
