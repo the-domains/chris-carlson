@@ -37,6 +37,9 @@ navigation:
   - name: Internet Neighboring
     id: 225f46ff-6e7d-44c9-90cf-3b93c650c9fa
     type: content
+  - name: An Excellent Read
+    id: b84ba643-d4da-4906-8aff-3521b4f02bff
+    type: content
   - name: Why I Want to Depart
     id: 3d453bff-d410-4d13-9a72-8bb8dba2d5c3
     type: content
@@ -69,9 +72,6 @@ navigation:
     type: content
   - name: 'Cloud Storage that is Distributed, Encrypted, Cheap'
     id: 4efa58f4-9e90-4c74-b54a-f62d4f27be38
-    type: content
-  - name: An Excellent Read
-    id: b84ba643-d4da-4906-8aff-3521b4f02bff
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/53989fba-e97c-4a1f-8289-cb8d269fbaf4.png
