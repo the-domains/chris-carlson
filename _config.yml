@@ -70,6 +70,9 @@ navigation:
   - name: 'Cloud Storage that is Distributed, Encrypted, Cheap'
     id: 4efa58f4-9e90-4c74-b54a-f62d4f27be38
     type: content
+  - name: An Excellent Read
+    id: b84ba643-d4da-4906-8aff-3521b4f02bff
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/53989fba-e97c-4a1f-8289-cb8d269fbaf4.png
 collections:
