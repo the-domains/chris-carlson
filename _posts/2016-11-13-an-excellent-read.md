@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-13T22:50:47.240Z'
+datePublished: '2016-11-13T22:51:26.358Z'
 sourcePath: _posts/2016-11-13-an-excellent-read.md
 inFeed: true
 hasPage: true
@@ -9,7 +9,7 @@ author:
   - name: Marijn Haverbeke
     url: 'http://marijnhaverbeke.nl/'
 via: {}
-dateModified: '2016-11-13T22:50:47.007Z'
+dateModified: '2016-11-13T22:51:25.840Z'
 title: An Excellent Read
 app_links: []
 publisher: {}
