@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-26T01:59:39.740Z'
+datePublished: '2016-11-26T03:44:01.281Z'
 sourcePath: _posts/2016-09-04-designing-with-high-power-led-modules.md
 inFeed: true
 authors: []
@@ -20,7 +20,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-11-26T01:59:16.607Z'
+dateModified: '2016-11-26T03:44:00.663Z'
 title: Making HP-LED Light Systems
 app_links: []
 publisher: {}
@@ -39,15 +39,19 @@ _type: MediaObject
 
 [Here's the latest version of the circuit.][0] Many new changes are made.
 
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1jbsSgjAQRXu_Ymd7SZCH4CRphM7aHsJCUmRw1qjj3yti59jdW5xzVAeOadToYrwchKA78dN6tjcfEzsH8d2ikHlZyX2aZ-lOVnWJ5tQ20LB_A3CWSQ1baBf4uAJKdEb1bDbKj9wFgocfotNYlBLBkZ9c1Jgt58r2f55CT8NvHD7OfuaBWKNEo8SaMS8wHUGM" height="800" style=""></iframe>
+
 ### Update: September 05, 2016
 
 I added a few more elements to the circuit, [this schematic][1] is much closer to the circuits I am currently testing.
 
-## **<NOTICE \>**
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1jjEPgjAUhHd_xUt3aK1IgbRdlI3ZHcqDdkDMs2r89wZhM253uct3p1vwhINhPsZbxTk-kd4ukHuEmLp54pvmWZkVpSxUrpTcZ0oy29RnaMLoY7iOcFprkCRwEalMBSRQL6wt0Ly1uiO702GgdkJ4hT56w465YOBxwRh2WMyd3P83OHXY_36BL7ObqUcyTDCr-TpjPzPRRkg" height="800" style=""></iframe>
 
-### **Don't mess with electricity if you haven't been adequately trained to do so. The circuit discussed below is a high voltage circuit and is potentially dangerous. Mishandling the circuit could lead to electrocution causing serious bodily harm or death. Please do not attempt to recreate or assemble this circuit unless you are an experienced professional. Additionally, the circuit discussed is only a prototype. It has not undergone safety testing by any third party, and its design has not been reviewed by anyone other than myself. If you attempt to construct or reproduce this circuit, you do so at your own risk and against my advice. I am offering the following information as an evolving documentation of the state of this project and nothing more.**
+### **<NOTICE \>**
 
-## **</NOTICE\>**
+**Don't mess with electricity if you haven't been adequately trained to do so. The circuit discussed below is a high voltage circuit and is potentially dangerous. Mishandling the circuit could lead to electrocution causing serious bodily harm or death. Please do not attempt to recreate or assemble this circuit unless you are an experienced professional. Additionally, the circuit discussed is only a prototype. It has not undergone safety testing by any third party, and its design has not been reviewed by anyone other than myself. If you attempt to construct or reproduce this circuit, you do so at your own risk and against my advice. I am offering the following information as an evolving documentation of the state of this project and nothing more.**
+
+### **</NOTICE\>**
 
 ---
 
