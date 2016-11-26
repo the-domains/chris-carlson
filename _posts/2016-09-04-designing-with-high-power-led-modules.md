@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-26T03:44:36.274Z'
+datePublished: '2016-11-26T03:51:47.903Z'
 sourcePath: _posts/2016-09-04-designing-with-high-power-led-modules.md
 inFeed: true
 authors: []
@@ -20,7 +20,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-11-26T03:44:35.695Z'
+dateModified: '2016-11-26T03:51:47.411Z'
 title: Making HP-LED Light Systems
 app_links: []
 publisher: {}
@@ -39,13 +39,13 @@ _type: MediaObject
 
 [Here's the latest version of the circuit.][0] Many new changes are made.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1jbsSgjAQRXu_Ymd7SZCH4CRphM7aHsJCUmRw1qjj3yti59jdW5xzVAeOadToYrwchKA78dN6tjcfEzsH8d2ikHlZyX2aZ-lOVnWJ5tQ20LB_A3CWSQ1baBf4uAJKdEb1bDbKj9wFgocfotNYlBLBkZ9c1Jgt58r2f55CT8NvHD7OfuaBWKNEo8SaMS8wHUGM" height="800" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1jbsSgjAQRXu_Ymd7SZCH4CRphM7aHsJCUmRw1qjj3yti59jdW5xzVAeOadToYrwchKA78dN6tjcfEzsH8d2ikHlZyX2aZ-lOVnWJ5tQ20LB_A3CWSQ1baBf4uAJKdEb1bDbKj9wFgocfotNYlBLBkZ9c1Jgt58r2f55CT8NvHD7OfuaBWKNEo8SaMS8wHUGM" height="400" style=""></iframe>
 
 ### Update: September 05, 2016
 
 I added a few more elements to the circuit, [this schematic][1] is much closer to the circuits I am currently testing.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1jjEPgjAUhHd_xUt3aK1IgbRdlI3ZHcqDdkDMs2r89wZhM253uct3p1vwhINhPsZbxTk-kd4ukHuEmLp54pvmWZkVpSxUrpTcZ0oy29RnaMLoY7iOcFprkCRwEalMBSRQL6wt0Ly1uiO702GgdkJ4hT56w465YOBxwRh2WMyd3P83OHXY_36BL7ObqUcyTDCr-TpjPzPRRkg" height="800" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1jjEPgjAUhHd_xUt3aK1IgbRdlI3ZHcqDdkDMs2r89wZhM253uct3p1vwhINhPsZbxTk-kd4ukHuEmLp54pvmWZkVpSxUrpTcZ0oy29RnaMLoY7iOcFprkCRwEalMBSRQL6wt0Ly1uiO702GgdkJ4hT56w465YOBxwRh2WMyd3P83OHXY_36BL7ObqUcyTDCr-TpjPzPRRkg" height="400" style=""></iframe>
 
 ### **<NOTICE \>**
 
