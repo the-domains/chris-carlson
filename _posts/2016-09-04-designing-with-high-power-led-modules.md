@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-26T03:44:01.281Z'
+datePublished: '2016-11-26T03:44:36.274Z'
 sourcePath: _posts/2016-09-04-designing-with-high-power-led-modules.md
 inFeed: true
 authors: []
@@ -20,7 +20,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-11-26T03:44:00.663Z'
+dateModified: '2016-11-26T03:44:35.695Z'
 title: Making HP-LED Light Systems
 app_links: []
 publisher: {}
@@ -95,7 +95,8 @@ _**Note:**This list of safety measures is not exhaustive; do not assume the circ
 
 _Primary Components -_
 
-* A few additional circuit elements improve safety and/or convenience. I include a temperature controlled switch and an on-off switch in the prototypes right now. The temperature controlled switch helps prevent overheating the LEDs; when the temperature rises above 70 degrees celcius, the point where the LED's are at risk of damage, the switch opens and the lights turn off.Bridge Rectifier: For 120V AC input, any bridge rectifier with a max voltage greater than 170V and a max current greater than the forward current of the LED package will suffice. I am most recently using this [part][2].
+* A few additional circuit elements improve safety and/or convenience. I include a temperature controlled switch and an on-off switch in the prototypes right now. The temperature controlled switch helps prevent overheating the LEDs; when the temperature rises above 70 degrees celcius, the point where the LED's are at risk of damage, the switch opens and the lights turn off.
+* Bridge Rectifier: For 120V AC input, any bridge rectifier with a max voltage greater than 170V and a max current greater than the forward current of the LED package will suffice. I am most recently using this [part][2].
 * Capacitor: For 120V AC input, the capacitors must have a max voltage greater than 170VDC, and they must also be able to withstand the current draw of the led modules. Determining the correct capacitance value of the capacitor is tricky business. Rather than trying to optimise the circuit mathematically by hand, I modelled the circuit in LTSpice and did transient analysis with different values for the smoothing capacitor. In general, a larger capacitor will produce a smoother voltage. The voltage doesn't need to be perfectly smooth, but the capacitor needs to provide enough energy to maintain a relatively stable light output. I found that 470uF was sufficient to smooth LED's with around a 1 amp draw, but results continue to improve as the capacitor grows in size. My latest circuits use [this capacitor][3].
 * LED Modules: I use LED COB modules, COB stands for Chip OnBoard. As I understand it, the LED COB module is an array of LED's that has been printed onto a single silicon wafer which uses an onboard processor to ensure each paralell leg of LED's recieves the same current. There are many different packages available, each with different voltage and amperage characteristics. I tried out two different packages, a 50W package which draws 1.4A at 36V DC, and a 10W package which draws .8A at 12V DC. I ultimately settled on the later, but both worked equally well. I ordered mine from [this vendor][4] at AliExpress.com, but there are many options available. I've heard a lot of good things about the [Cree Packages][5].
 * Temperature Dependent Switch: I found [this][6] Temperature Dependent Switch at Amazon.com. They seem to work fairly well.
