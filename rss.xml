@@ -4,22 +4,15 @@
         <description><![CDATA[Chris Carlson]]></description>
         <link>http://chriscarlson.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Feb 2017 11:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2017 11:22:26 GMT</lastBuildDate>
         <atom:link href="http://chriscarlson.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Feb 2017 11:19:06 GMT</pubDate>
+        <pubDate>Thu, 09 Feb 2017 11:22:24 GMT</pubDate>
         <item>
             <title><![CDATA[Internet Neighboring]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/076a5f2f-b88c-47ac-b7d3-9f3650906437.jpg" title="Internet Neighboring" alt="Just a matter of time &apos;til it&apos;s the norm">,<p>Fifteen years ago people were wary about online dating. They voiced their concerns frequently and publicly, warning about the dangers of meeting, in real life, people who one had found on the internet…</p>]]></description>
             <link>http://chriscarlson.me/internet-neighboring/index.html</link>
             <guid isPermaLink="false">225f46ff-6e7d-44c9-90cf-3b93c650c9fa</guid>
             <pubDate>Mon, 17 Oct 2016 06:33:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Humans In Algorithm]]></title>
-            <description><![CDATA[<h1>Humans In Algorithm</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bde3b33c-dfb8-4bb6-b42d-cc77eea6f30a.jpg">,<h2>Introduction</h2>,<p>My introduction to computer science professor, Mr. Robert Hardin, explained, “An algorithm is simply a set of instructions for how to do something.”</p>,<p>“The algorithm for brushing your teeth”, he said, “is something like: Pick up toothbrush, Squirt toothpaste on it, Scrub each tooth for 30 seconds with the toothbrush, Spit toothpaste into sink, Rinse mouth and toothbrush with water, Replace toothbrush into holder.”</p>,<p>To drive the point home he went on to describe algorithms for changing lanes on the highway and for getting from Ihop to the WMU Engineering campus.</p>,<p>Pondering his explanation it became clear, humans use algorithms all the time. When I learn to do something new, someone has communicated an algorithm to me. My habits are algorithms which I have internalized, (and bad habits are internalized algorithms that aren’t helpful).</p>,<p>People walking down the street in New York are implementing their “walking some place” algorithm, which is different from the “walking” algorithm used by people from small-town America.</p>,<p>Every day from 7:30 to 8:30 in the morning Millions of people get in their cars to use their “Driving to work” algorithm. Depending on where they live, and how much traffic there is, their algorithm will include more or less honking.</p>,<p>It turns out the simplest description for human society itself is with the phrase, “Humans In Algorithm”, because that is precisely what it is. We are humans in algorithm. Society is a whole bunch of humans executing various algorithms all around the world all the time.</p>,<p>At first blush, this might appear as an interesting but ultimately trivial realization, but it isn’t. It will turn out to be an empowering understanding for people with the potential to reshape society rapidly.</p>,<p>I will describe more next time, but I’ll give a hint to foreshadow why this is so important: I personally came to this conclusion, that we are humans in algorithm, some time before the significance of it dawned on me. When it did dawn on me I was learning ruby, finally starting to grasp the concept of meta-programming, when I wondered, “What is the meta-programming for human algorithms?”. Moments later I saw stars as ideas came bubbling up and overflowed in my brain.</p>]]></description>
-            <link>http://chriscarlson.me/humans-in-algorithm/index.html</link>
-            <guid isPermaLink="false">ba729a35-b93c-4c2c-ac50-134c118fe653</guid>
-            <pubDate>Thu, 09 Feb 2017 11:19:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Making HP-LED Light Systems]]></title>
