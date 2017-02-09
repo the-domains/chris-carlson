@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   My introduction to computer science professor, Mr. Robert Hardin, explained,
   “An algorithm is simply a set of instructions for how to do something.”
-dateModified: '2017-02-09T11:14:19.701Z'
-datePublished: '2017-02-09T11:14:32.918Z'
+dateModified: '2017-02-09T11:15:11.312Z'
+datePublished: '2017-02-09T11:15:11.711Z'
 title: Humans In Algorithm
 author: []
 publisher: {}
